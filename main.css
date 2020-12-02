@@ -43,7 +43,7 @@ textarea {
 
 button {
     background-color: var(--primary);
-    border: none;
+    border: #000000;
     margin: 1rem 0rem;
     padding: 1rem 0.5rem;
     font-family: 'Montserrat', sans-serif;
